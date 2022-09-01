@@ -26,5 +26,12 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 # Deployed Website 
+![Screenshot of website 1](./images/1.png)
+![Screenshot of website 2](./images/2.png)
+
+
+# Deployement Links 
+[GitHub](https://github.com/Zubair-Hassam/wk3-password-generator).
+[Deployed Website URL](https://zubair-hassam.github.io/wk3-password-generator/)
 
 
